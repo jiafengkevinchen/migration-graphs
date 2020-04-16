@@ -131,3 +131,5 @@ dmypy.json
 # Ignore data folders
 DataInput/
 DataOutput/
+
+*.DS_Store
